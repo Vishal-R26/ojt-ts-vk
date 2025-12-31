@@ -1,6 +1,7 @@
 {
   "name": "primeng-app",
   "version": "0.0.0",
+  "author": "Vishal",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
